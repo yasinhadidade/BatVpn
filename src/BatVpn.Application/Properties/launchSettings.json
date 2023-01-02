@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "BatVpn.Application": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:14629;http://localhost:14630"
+    }
+  }
+}

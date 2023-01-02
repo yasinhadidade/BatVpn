@@ -1,0 +1,17 @@
+C:\Batriders\BatVpn\src\Batvpn.Persistence\bin\Release\net6.0\Batvpn.Persistence.deps.json
+C:\Batriders\BatVpn\src\Batvpn.Persistence\bin\Release\net6.0\Batvpn.Persistence.runtimeconfig.json
+C:\Batriders\BatVpn\src\Batvpn.Persistence\bin\Release\net6.0\Batvpn.Persistence.dll
+C:\Batriders\BatVpn\src\Batvpn.Persistence\bin\Release\net6.0\Batvpn.Persistence.pdb
+C:\Batriders\BatVpn\src\Batvpn.Persistence\bin\Release\net6.0\BatVpn.Domain.dll
+C:\Batriders\BatVpn\src\Batvpn.Persistence\bin\Release\net6.0\BatVpn.Domain.pdb
+C:\Batriders\BatVpn\src\Batvpn.Persistence\obj\Release\net6.0\Batvpn.Persistence.csproj.AssemblyReference.cache
+C:\Batriders\BatVpn\src\Batvpn.Persistence\obj\Release\net6.0\Batvpn.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Batriders\BatVpn\src\Batvpn.Persistence\obj\Release\net6.0\Batvpn.Persistence.AssemblyInfoInputs.cache
+C:\Batriders\BatVpn\src\Batvpn.Persistence\obj\Release\net6.0\Batvpn.Persistence.AssemblyInfo.cs
+C:\Batriders\BatVpn\src\Batvpn.Persistence\obj\Release\net6.0\Batvpn.Persistence.csproj.CoreCompileInputs.cache
+C:\Batriders\BatVpn\src\Batvpn.Persistence\obj\Release\net6.0\Batvpn.Persistence.csproj.CopyComplete
+C:\Batriders\BatVpn\src\Batvpn.Persistence\obj\Release\net6.0\Batvpn.Persistence.dll
+C:\Batriders\BatVpn\src\Batvpn.Persistence\obj\Release\net6.0\refint\Batvpn.Persistence.dll
+C:\Batriders\BatVpn\src\Batvpn.Persistence\obj\Release\net6.0\Batvpn.Persistence.pdb
+C:\Batriders\BatVpn\src\Batvpn.Persistence\obj\Release\net6.0\Batvpn.Persistence.genruntimeconfig.cache
+C:\Batriders\BatVpn\src\Batvpn.Persistence\obj\Release\net6.0\ref\Batvpn.Persistence.dll

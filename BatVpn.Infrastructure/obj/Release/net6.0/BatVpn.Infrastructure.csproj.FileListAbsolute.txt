@@ -1,0 +1,17 @@
+C:\Batriders\BatVpn\BatVpn.Infrastructure\bin\Release\net6.0\BatVpn.Infrastructure.deps.json
+C:\Batriders\BatVpn\BatVpn.Infrastructure\bin\Release\net6.0\BatVpn.Infrastructure.dll
+C:\Batriders\BatVpn\BatVpn.Infrastructure\bin\Release\net6.0\BatVpn.Infrastructure.pdb
+C:\Batriders\BatVpn\BatVpn.Infrastructure\bin\Release\net6.0\BatVpn.Domain.dll
+C:\Batriders\BatVpn\BatVpn.Infrastructure\bin\Release\net6.0\Batvpn.Persistence.dll
+C:\Batriders\BatVpn\BatVpn.Infrastructure\bin\Release\net6.0\BatVpn.Domain.pdb
+C:\Batriders\BatVpn\BatVpn.Infrastructure\bin\Release\net6.0\Batvpn.Persistence.pdb
+C:\Batriders\BatVpn\BatVpn.Infrastructure\obj\Release\net6.0\BatVpn.Infrastructure.csproj.AssemblyReference.cache
+C:\Batriders\BatVpn\BatVpn.Infrastructure\obj\Release\net6.0\BatVpn.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Batriders\BatVpn\BatVpn.Infrastructure\obj\Release\net6.0\BatVpn.Infrastructure.AssemblyInfoInputs.cache
+C:\Batriders\BatVpn\BatVpn.Infrastructure\obj\Release\net6.0\BatVpn.Infrastructure.AssemblyInfo.cs
+C:\Batriders\BatVpn\BatVpn.Infrastructure\obj\Release\net6.0\BatVpn.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Batriders\BatVpn\BatVpn.Infrastructure\obj\Release\net6.0\BatVpn.Infrastructure.csproj.CopyComplete
+C:\Batriders\BatVpn\BatVpn.Infrastructure\obj\Release\net6.0\BatVpn.Infrastructure.dll
+C:\Batriders\BatVpn\BatVpn.Infrastructure\obj\Release\net6.0\refint\BatVpn.Infrastructure.dll
+C:\Batriders\BatVpn\BatVpn.Infrastructure\obj\Release\net6.0\BatVpn.Infrastructure.pdb
+C:\Batriders\BatVpn\BatVpn.Infrastructure\obj\Release\net6.0\ref\BatVpn.Infrastructure.dll

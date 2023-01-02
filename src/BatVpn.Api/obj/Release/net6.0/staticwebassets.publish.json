@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "3n2ofpm/cM8Btt+z/vySHd9Z5/gIQOhi/JGGP+G7Azg=",
+  "Source": "BatVpn.Api",
+  "BasePath": "_content/BatVpn.Api",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BatVpn.Api\\wwwroot",
+      "Source": "BatVpn.Api",
+      "ContentRoot": "C:\\Batriders\\BatVpn\\src\\BatVpn.Api\\wwwroot\\",
+      "BasePath": "_content/BatVpn.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

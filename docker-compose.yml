@@ -1,0 +1,36 @@
+version: '3.4'
+
+networks:
+  dempvpnapp:
+
+services:
+  demoappdb:
+    container_name: app-db
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    ports:
+      - 1433:1433 
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_SA_PASSWORD=esi!123456
+    networks:
+      - dempvpnapp
+  batvpn.api:
+    container_name: demo-batvpn-app
+    image: ${DOCKER_REGISTRY-}batvpnapi
+    build:
+      context: .
+      dockerfile: src/BatVpn.Api/Dockerfile
+    ports:
+      - 8007:80 
+      - 8008:443 
+    expose:
+      - "8007" 
+    depends_on:
+      - demoappdb
+    environment:
+      - DB_HOST=demoappdb
+      - DB_NAME=dockervpnDB
+      - DB_SA_PASSWORD=esi!123456
+    networks:
+      - dempvpnapp
+   
